@@ -1,0 +1,6 @@
+{
+  "name": "FitBuddy – AI Fitness Plan Generator",
+  "description": "A college-level fitness planner generating 7-day personalized workout routines and nutrition tips with Gemini AI, featuring feedback refinement and a trainer dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
